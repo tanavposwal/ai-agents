@@ -5,3 +5,4 @@ tmp
 myenv
 .venv
 venv
+*.md
